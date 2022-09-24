@@ -79,6 +79,7 @@ A little bit of practicing in self-made projects based on courses I have taken, 
 #### Education
 
 **Programming Courses:**
+
 `In process` React - The Complete Guide (incl Hooks, React Router, Redux) _by Maximilian Schwarzmüller_
 
 `2022` Rolling Scopes School JS FE (Stage 0 and 1 completed + 1 technical interview)
